@@ -1,0 +1,61 @@
+.background-green{background: #1DBF73}
+.text-green{color: #1DBF73}
+.text-grey {color: #999;}
+.text-white {color: white;}
+.text-black {color: black;}
+.smallest-text{font-size: 0.8rem;}
+.smaller-text{font-size: 1rem;}
+.small-text{font-size: 1.2rem;}
+.medium-text{font-size: 1.4rem;}
+.big-text{font-size: 1.7rem;}
+.bigger-text{font-size: 2rem;}
+.large-text{font-size: 2.4rem;}
+.bold-font{font-weight: bold}
+.grey-bg{background: #F8F8F8}
+.white-bg{background: white}
+.extra-large-text{font-size: 4rem;}
+div, ion-icon, .item-datetime .label{
+  color: #404040;
+}
+.back-button-icon-md{
+  color: white;
+}
+.back-button-icon-ios{
+  color: white;
+  padding: 5pt 10pt;
+}
+.error-message {
+  color: red;
+  text-align: left;
+  margin-left: 20pt;
+  margin-top: 5pt;
+  font-size: 12px;
+}
+.full-input {
+  border: none;
+  width: 100%;
+}
+button{
+  text-transform: none !important;
+}
+.saperator{
+  width: 100%;
+  height: 1px;
+  background: #999;
+}
+.toolbar-background {
+  background-color: #1DBF73;
+  color: white;
+}
+.toolbar-title-ios, .toolbar-title-md{
+  color: white;
+}
+.alert-button .button-inner {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center !important;
+}
+.alert-sub-title, .alert-title {
+  text-align: center;
+}
